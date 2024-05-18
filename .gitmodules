@@ -4,3 +4,6 @@
 [submodule "transactions"]
 	path = transactions
 	url = https://github.com/Saint-Pet/transactions.git
+[submodule "notifications"]
+	path = notifications
+	url = https://github.com/Saint-Pet/notifications.git
